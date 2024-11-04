@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚<br>I am a 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 with a focus on full-stack development and a strong interest in cybersecurity. My goal is to enhance my skills in both frontend and backend technologies to deliver end-to-end software solutions.<br><br>## 𝙊𝙗𝙟𝙚𝙘𝙩𝙞𝙫𝙚𝙨.<br>- Become a competent full-stack developer with experience in creating secure applications.<br>- Continue to learn and apply cybersecurity measures in my development workflow.<br><br>I am open to collaboration and opportunities to contribute to meaningful projects.
+# 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚:
+I am a 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 with a focus on full-stack development and a strong interest in cybersecurity. My goal is to enhance my skills in both frontend and backend technologies to deliver end-to-end software solutions.<br><br>## 𝙊𝙗𝙟𝙚𝙘𝙩𝙞𝙫𝙚𝙨.<br>- Become a competent full-stack developer with experience in creating secure applications.<br>- Continue to learn and apply cybersecurity measures in my development workflow.<br><br>I am open to collaboration and opportunities to contribute to meaningful projects.
 
 
 # 💻 Tech Stack:
