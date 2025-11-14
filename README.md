@@ -1,157 +1,21 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="wave" width="35px" height="35px"/> Welcome to DamianDev-Heaven
+# 💫 About Me:
+I am a 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 specializing in full-stack development, with a passion for integrating robust cybersecurity practices. Proficient in technologies like React, Node.js, C# for frontend and backend, I aim to build secure, scalable end-to-end solutions that prioritize data protection and user trust.
 
-<div align="center">
-  <p><b>Full-Stack Developer | iOS Specialist | Cybersecurity Enthusiast</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/El%20Salvador-%2D%D9%A4%D9%A5%D9%A4%D9%A9-blue?style=flat-square&logo=googlemaps" alt="El Salvador">
-    <img src="https://img.shields.io/badge/Based%20In-Central%20America-success?style=flat-square" alt="Location">
-    <img src="https://img.shields.io/badge/Version-3.0%20Engineer-blueviolet?style=flat-square" alt="Version">
-  </p>
-</div>
 
----
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DamianDev-Heaven&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DamianDev-Heaven&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianDev-Heaven&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🚀 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DamianDev-Heaven&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-Soy **Damian**, estudiante de **Ingeniería en Software** (3er año) con pasión por construir soluciones tecnológicas seguras, escalables y orientadas al usuario. Me especializo en:
-
-- 🎯 **Full-Stack Development** (iOS + Backend)
-- 🛡️ **Ciberseguridad** y hardening de aplicaciones  
-- 📱 **Desarrollo Mobile** con Swift y Firebase
-- 💼 **Emprendimiento Tech** y viabilidad de mercado
-- ⚡ **Arquitecturas modernas** y patrones de diseño
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=DamianDev-Heaven&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Tech Stack
-
-<details open>
-  <summary><b>🔧 Lenguajes & Frameworks</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  </div>
-</details>
-
-<details open>
-  <summary><b>☁️ Cloud & Bases de Datos</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  </div>
-</details>
-
-<details open>
-  <summary><b>🔐 Security & DevOps</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-    <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  </div>
-</details>
-
----
-
-## 🏆 Proyectos Destacados
-
-### 🐾 [GreenTag](https://github.com/DamianDev-Heaven/GreenTag)
-**Plataforma integral de rescate de mascotas**
-- 📱 Aplicación iOS nativa con Swift
-- 🏪 Marketplace integrado para adopciones
-- 🔐 Autenticación con Firebase Authentication
-- 📍 Geolocalización y matching de mascotas perdidas
-- ⭐ _Viabilidad de mercado validada_
-
-### 💼 [SisEmpleo](https://github.com/DamianDev-Heaven/SisEmpleo)
-**Sistema de empleo inclusivo**
-- 🎯 Enfoque en personas con TEA/neurodiversidad
-- 📊 Componentes de evaluación adaptativa
-- 🔗 Integración B2B con empresas
-- 📈 Dashboard de analytics
-
-### 🏥 Clinic Management System
-**Automatización administrativa para laboratorios**
-- 📋 Gestión de pacientes y turnos
-- 💉 Inventario de servicios médicos
-- 📱 Portal para pacientes
-- 🔍 Reportes y métricas
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=DamianDev-Heaven&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianDev-Heaven&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</div>
-
----
-
-## 🎯 Objetivos Actuales
-
-- ✅ Dominar arquitecturas MVVM en iOS
-- ✅ Profundizar en ciberseguridad (OSINT, Pentesting)
-- ✅ Publicar GreenTag en App Store
-- ✅ Expandir SisEmpleo al mercado laboral
-- ✅ Contribuir a proyectos open-source
-- ✅ Construir network en tech industry
-
----
-
-## 📚 Stack de Aprendizaje
-
-| Área | Status | Progreso |
-|------|--------|----------|
-| **iOS Advanced** | 🔄 En Curso | ███████░░ 70% |
-| **Ciberseguridad** | 🔄 En Curso | ██████░░░ 60% |
-| **React.js** | 🔄 En Curso | █████░░░░ 50% |
-| **System Design** | 📋 Planeado | ██░░░░░░░ 20% |
-| **AWS Solutions** | 📋 Planeado | ██░░░░░░░ 15% |
-
----
-
-## 💬 Conecta Conmigo
-
-<div align="center">
-  <a href="https://linkedin.com/in/damian-dev-heaven" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:damian.dev.heaven@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/DamianDev-Heaven" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
-
----
-
-## 🌟 Fun Facts
-
-- 🎮 Jugador competitivo de **Valorant** (Radiant aspirant)
-- 🔧 Entusiasta de troubleshooting y optimización de sistemas
-- 🌍 Apasionado por soluciones tech para el mercado latinoamericano
-- 💡 Creo en construir productos viables, no solo código
-- ⚡ El café y la ciberseguridad son mi combustible
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DamianDev-Heaven&style=flat-square&color=blueviolet" alt="Visitor Counter"/>
-  <p><b>💻 Always learning. Always building. Always securing. 🔐</b></p>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
